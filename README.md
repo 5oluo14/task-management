@@ -15,7 +15,7 @@ A simple yet powerful Task Management Application built with Laravel, Vue.js 3, 
 
 ### Backend
 
-- Laravel 10
+- Laravel 11
 - Laravel Sanctum for API authentication
 - Repository Design Pattern
 - Form Request Validation
