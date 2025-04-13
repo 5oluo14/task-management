@@ -52,7 +52,7 @@ A simple yet powerful Task Management Application built with Laravel, Vue.js 3, 
 
    ```bash
    git clone git@github.com:5oluo14/task-management.git
-   cd task-manager
+   cd task-management
    ```
 
 2. Install PHP dependencies:
